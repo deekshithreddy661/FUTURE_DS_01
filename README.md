@@ -1,4 +1,3 @@
-Power BI dashboard project analyzing Superstore sales, profit, customer segments, and regional performance. The dashboard transforms raw retail data into interactive visualizations and actionable business insights. It includes KPI tracking, sales trend analysis, category performance, and regional comparisons to support data-driven decision-making. Developed as part of the FUTURE_DS_01 Data Science & Analytics Internship.
 
 
 SUPERSTORE SALES & PROFIT ANALYSIS DASHBOARD
