@@ -46,6 +46,10 @@ The dataset is hosted externally because of its file size.
 Dataset Link:
 https://drive.google.com/file/d/15INm3EfRD_RsN_u-weP9jeGH5FEbX-eS/view?usp=sharing
 
+Dashboard Preview:
+
+![Dashboard](SuperstoreSales_Dashboard.png)
+
 📈 DASHBOARD HIGHLIGHTS
 
 Interactive filters for Year, Category, and Region
